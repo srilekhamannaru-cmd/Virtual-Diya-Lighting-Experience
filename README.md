@@ -1,3 +1,9 @@
+## 🌐 Live Demo
+
+Experience the Virtual Diya Lighting website here:
+
+🔗 https://virtual-diya-lighting-experience.vercel.app
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge)](https://virtual-diya-lighting-experience.vercel.app)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
